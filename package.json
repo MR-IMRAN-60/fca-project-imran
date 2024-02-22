@@ -1,6 +1,6 @@
 {
-  "name": "fca-project-orion",
-  "version": "1.1.22",
+  "name": "fca-project-imran",
+  "version": "1.1.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,12 +9,12 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ivancotacte/fca-project-orion/issues"
+    "url": "https://github.com/MR-IMRAN-60/fca-project-imran/issues"
   },
-  "homepage": "https://github.com/ivancotacte/fca-project-orion#readme",
+  "homepage": "https://github.com/MR-IMRAN-60/fca-project-imran#readme",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ivancotacte/fca-project-orion.git"
+    "url": "git://github.com/MR-IMRAN-60/fca-project-imran.git"
   },
   "dependencies": {
     "aes-js": "latest",
